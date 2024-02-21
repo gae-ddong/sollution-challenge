@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "footprintsLog",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "email",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "footLog",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
